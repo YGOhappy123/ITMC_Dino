@@ -42,6 +42,7 @@ body {
     transform: translate(-50%, -50%);
     font-size: 4vmin;
     text-align: center;
+    z-index: 99999;
 }
 
 .ground {
